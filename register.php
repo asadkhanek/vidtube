@@ -15,7 +15,7 @@ if (isset($_POST[loginButton])) {
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title>welcome to spotify</title>
+    <title>welcome to spotify asad</title>
   </head>
   <body>
     <div class="inputContainer">
